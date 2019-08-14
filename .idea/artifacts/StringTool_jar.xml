@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StringTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StringTool_jar</output-path>
+    <root id="archive" name="StringTool.jar">
+      <element id="module-output" name="StringTool" />
+    </root>
+  </artifact>
+</component>
